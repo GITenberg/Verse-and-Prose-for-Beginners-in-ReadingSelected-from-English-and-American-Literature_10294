@@ -1,0 +1,30 @@
+_repo: Verse-and-Prose-for-Beginners-in-ReadingSelected-from-English-and-American-Literature_10294
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Scudder, Horace Elisha
+    aliases:
+    - Scudder, H. E. (Horace Elisha)
+    - Scudder, Horace E.
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '3446'
+    url: http://www.gutenberg.org/2009/agents/3446
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers'
+- GITenberg
+title: 'Verse and Prose for Beginners in Reading
+
+  Selected from English and American Literature'
+url: http://www.gutenberg.org/ebooks/10294
