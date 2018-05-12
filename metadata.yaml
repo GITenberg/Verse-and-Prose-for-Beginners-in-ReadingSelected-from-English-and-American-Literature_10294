@@ -1,5 +1,8 @@
 _repo: Verse-and-Prose-for-Beginners-in-ReadingSelected-from-English-and-American-Literature_10294
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Scudder, Horace Elisha
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3446
     wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10294#Verse-and-Prose-for-Beginners-in-ReadingSelected-from-English-and-American-Literature
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
